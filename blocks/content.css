@@ -1,17 +1,21 @@
-.homeland {
-  margin: 0 302px 0 148px;
+.content {
   display: flex;
   flex-direction: column;
+  margin: 0 302px 0 148px;
+}
+
+.homeland {
+  font-family: "Inter";
 }
 
 .homeland__header {
+  max-width: 830px;
+  margin-top: 92px;
+  box-sizing: border-box;
   font-size: 54px;
   font-family: "Inter";
   font-weight: 900;
   line-height: 107%;
-  box-sizing: border-box;
-  max-width: 830px;
-  margin-top: 92px;
 }
 
 .homeland__quote {
