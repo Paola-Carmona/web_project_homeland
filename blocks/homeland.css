@@ -1,0 +1,171 @@
+.homeland {
+  font-family: "Inter";
+}
+
+.homeland__header {
+  max-width: 830px;
+  margin-top: 92px;
+  box-sizing: border-box;
+  font-size: 54px;
+  font-family: "Inter";
+  font-weight: 900;
+  line-height: 107%;
+}
+
+.homeland__quote {
+  font-size: 24px;
+  font-family: "Inter";
+  font-weight: 400;
+  line-height: 142%;
+  padding: 0;
+  margin: 0;
+}
+
+.homeland__quote-text {
+  box-sizing: border-box;
+  max-width: 738px;
+}
+
+.homeland__quote-author {
+  text-align: right;
+  margin-top: 10px;
+  box-sizing: border-box;
+}
+
+.homeland__description {
+  font-size: 16px;
+  font-family: "Inter";
+  font-weight: 400;
+  line-height: 163%;
+  box-sizing: border-box;
+  max-width: 722px;
+  padding-top: 32px;
+}
+
+@media screen and (min-width: 320px) {
+  .homeland__header {
+    font-size: 32px;
+    font-family: "Inter";
+    font-weight: 900;
+    line-height: 109%;
+    box-sizing: border-box;
+    max-width: 288px;
+    margin-top: 64px;
+  }
+
+  .homeland__quote-text {
+    box-sizing: border-box;
+    max-width: 288px;
+  }
+
+  .homeland__quote-author {
+    text-align: center;
+    margin-top: 10px;
+  }
+
+  .homeland__description {
+    font-size: 16px;
+    font-family: "Inter";
+    font-weight: 400;
+    line-height: 163%;
+    box-sizing: border-box;
+    max-width: 288px;
+    padding-top: 32px;
+  }
+}
+
+@media screen and (min-width: 544px) {
+  .homeland__header {
+    font-size: 54px;
+    font-family: "Inter";
+    font-weight: 900;
+    line-height: 109%;
+    box-sizing: border-box;
+    max-width: 400px;
+    margin-top: 80px;
+  }
+
+  .homeland__quote-text {
+    box-sizing: border-box;
+    max-width: 400px;
+  }
+
+  .homeland__quote-author {
+    text-align: center;
+    margin-top: 10px;
+  }
+
+  .homeland__description {
+    font-size: 16px;
+    font-family: "Inter";
+    font-weight: 400;
+    line-height: 163%;
+    box-sizing: border-box;
+    max-width: 722px;
+    padding-top: 32px;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .homeland__header {
+    font-size: 45px;
+    font-family: "Inter";
+    font-weight: 900;
+    line-height: 109%;
+    box-sizing: border-box;
+    max-width: 707px;
+    margin-top: 90px;
+  }
+
+  .homeland__quote-text {
+    box-sizing: border-box;
+    max-width: 720px;
+  }
+
+  .homeland__quote-author {
+    text-align: center;
+    margin-top: 10px;
+  }
+
+  .homeland__description {
+    font-size: 16px;
+    font-family: "Inter";
+    font-weight: 400;
+    line-height: 163%;
+    box-sizing: border-box;
+    max-width: 720px;
+    padding-top: 32px;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .homeland__header {
+    font-size: 54px;
+    font-family: "Inter";
+    font-weight: 900;
+    line-height: 107%;
+    box-sizing: border-box;
+    max-width: 750px;
+    margin-top: 92px;
+  }
+
+  .homeland__quote-text {
+    box-sizing: border-box;
+    max-width: 738px;
+  }
+
+  .homeland__quote-author {
+    text-align: center;
+    margin-top: 10px;
+  }
+
+  .homeland__description {
+    font-size: 16px;
+    font-family: "Inter";
+    font-weight: 400;
+    line-height: 163%;
+    box-sizing: border-box;
+    max-width: 722px;
+    padding-top: 40px;
+  }
+}
