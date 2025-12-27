@@ -33,6 +33,7 @@
   line-height: 120%;
   margin: 32px auto 64px;
   font-weight: 400;
+  max-width: 720px;
 }
 
 .header__image {
@@ -63,6 +64,7 @@
     line-height: 125%;
     margin: 32px auto 64px;
     font-weight: 400;
+    max-width: 288px;
   }
 
   .header__image-patria {
@@ -86,6 +88,7 @@
     line-height: 120%;
     margin: 32px auto 64px;
     font-weight: 400;
+    max-width: 500px;
   }
 
   .header__image-patria {
@@ -109,6 +112,7 @@
     line-height: 120%;
     margin: 32px auto 64px;
     font-weight: 400;
+    max-width: 720px;
   }
 
   .header__image-patria {
@@ -132,6 +136,7 @@
     line-height: 120%;
     margin: 32px auto 64px;
     font-weight: 400;
+    max-width: 720px;
   }
 
   .header__image-patria {
